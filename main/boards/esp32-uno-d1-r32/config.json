@@ -2,7 +2,7 @@
     "name": "ESP32 UNO D1 R32",
     "description": "ESP32 UNO D1 R32开发板，带舵机云台和OLED显示屏",
     "version": "1.0.0",
-    "author": "小智AI桌面机器人项目组",
+    "author": "Obilab",
     "date": "2025-03-30",
     "features": [
         "ESP32 UNO D1 R32开发板",

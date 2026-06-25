@@ -29,8 +29,8 @@ This repository contains reference source code. Original project: [https://gitee
 
 ## Author
 
-* Mark Yang
-* Email: mark.yang@ewen.ltd
+* Obilab
+* Email: binhlinh473@gmail.com
 
 ## Copyright Notice
 
